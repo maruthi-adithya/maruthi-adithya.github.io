@@ -1,2 +1,1 @@
-# maruthi-adithya.github.io
-test site
+Portfolio of **Maruthi Adithya**
